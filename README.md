@@ -8,6 +8,8 @@ $ pkg install git
 
 $ git clone https://github.com/Rhmn8/installpackage
 
+$ cd installpackage
+
 $ bash man4you.sh
 ```
 
