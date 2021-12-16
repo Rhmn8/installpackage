@@ -38,6 +38,7 @@ clear
 
 echo "gak bisa ubah sdcard? oh oke tapi tunggu 7 detik!"
 
+echo "tunggu 7 detik"
 clear
 
 termux-setup-storage
