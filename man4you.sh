@@ -7,10 +7,14 @@
 ## thanks too nya jangan diubah!
 
 
+echo "jangan lupa follow github me!"
+sleep 3
+clear
 
 pkg install update
 pkg install upgrade
 pkg install git
+pkg install mc
 pkg install python2
 pkg install nodejs
 pkg install ffmpeg
