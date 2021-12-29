@@ -15,8 +15,10 @@ pkg install update
 pkg install upgrade
 pkg install git
 pkg install mc
+pkg install python
 pkg install python2
 pkg install nodejs
+pkg upgrade nodejs
 pkg install ffmpeg
 pkg install figlet
 pip2 install lolcat
